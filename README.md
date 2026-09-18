@@ -16,8 +16,6 @@
   <a href="mailto:dm6008@nyu.edu"><img src="https://img.shields.io/badge/dm6008%40nyu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<br>
-
 <h3 align="center">Stack</h3>
 
 <p align="center">
@@ -29,12 +27,10 @@
 
 <p align="center"><sub>also: Expo &amp; EAS Build · React Native · Stripe · SharePoint Framework · Claude Code · Codex</sub></p>
 
-<br>
-
 <h3 align="center">Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=DaniyalMlk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9&rank_icon=github&include_all_commits=true" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=DaniyalMlk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9&rank_icon=github&include_all_commits=true&hide=contribs" alt="GitHub stats" height="165">
   <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=DaniyalMlk&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&text_color=c9d1d9&langs_count=6" alt="Top languages" height="165">
 </p>
 
