@@ -1,55 +1,43 @@
-<h1 align="center">Hey, I'm Daniyal</h1>
+<!-- Profile README · DaniyalMlk/DaniyalMlk -->
 
-<p align="center">
-  Full-stack engineer · CS @ NYU (Shanghai → New York) · building web + iOS on TypeScript and PostgreSQL
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=150&section=header&text=Daniyal%20Malik&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20engineer%20%C2%B7%20CS%20%40%20NYU&descAlignY=60&descSize=18" width="100%" alt="banner">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/daniyal-mlk/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:dm6008@nyu.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+I build web and iOS products on **TypeScript + PostgreSQL**. Currently a full-stack engineering intern at [Terran Denizen](https://terrandenizen.com), a career platform for MBA students at M7 schools, where I lead the Expo iOS app through TestFlight and App Store release. NYU Shanghai student, in New York for 2026–27.
 
-### About me
+### Now
 
-Computer science student at NYU, home campus Shanghai, studying in New York for 2026–27. Full-stack engineering intern at **Terran Denizen**, a career platform for MBA students at M7 schools, where I've shipped most of the web product and now lead the Expo iOS app through TestFlight and App Store release. On the side I built **SolveSim**, a timed McKinsey-style case interview simulator used by 250+ candidates.
+- 📱 Shipping the **Terran Denizen iOS app** — 23 shared business-logic modules, 655 tests, EAS builds
+- 🔐 Database-enforced auth: 133 row-level security policies shared by web and mobile
+- 🎯 Maintaining **SolveSim**, a McKinsey-style case interview simulator used by 250+ candidates
 
-Before that: an HSSE platform on SharePoint for an oil-field operator, ETL work on Kazakhstan's e-government data, and sensors on a tensegrity robot at a university research lab.
+### Projects
 
-### What I'm working on
-
-| | |
-|---|---|
-| **Terran Denizen** — [terrandenizen.com](https://terrandenizen.com) | 6-service platform (4 Next.js apps, Node API, Expo iOS app) on one PostgreSQL backend. Stripe billing, 133 row-level security policies, single-use auth exchange codes. |
-| **SolveSim** | Next.js / Prisma case-interview simulator. Append-only attempt log, three-tier Stripe subscriptions driven by one config. Private repo; happy to walk through it. |
-| **spaceVoyageApp** — [repo](https://github.com/DaniyalMlk/spaceVoyageApp) | SwiftUI app exploring the solar system. My first native iOS project. |
+| Project | What it is | Stack |
+|:--|:--|:--|
+| **[Terran Denizen](https://terrandenizen.com)** | 6-service career platform: 4 Next.js apps, Node API, Expo iOS app, one PostgreSQL backend. Stripe billing, single-use auth exchange codes. | Next.js · Node · Expo · Supabase · Stripe |
+| **SolveSim** | Timed case-interview simulator. Append-only attempt log, three-tier Stripe subscriptions from one config. 8% of users upgraded. *(private repo — ask me for a walkthrough)* | Next.js · Prisma · PostgreSQL · Stripe |
+| **[spaceVoyageApp](https://github.com/DaniyalMlk/spaceVoyageApp)** | Native iOS app exploring the solar system. | SwiftUI |
+| **HSSE platform @ NCOC** | Safety-process platform for 150+ staff: 6 SPFx web parts, a Visio parser that turns process diagrams into Word guides (2 h → under a minute). | React · TypeScript · SPFx |
 
 ### Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### GitHub
+```
+Languages    TypeScript · JavaScript · Python · C++ · SQL · Swift
+Frontend     Next.js · React · React Native · Expo · Tailwind CSS
+Backend      Node.js · PostgreSQL · Supabase · Prisma · Stripe
+Tools        Git · GitHub · EAS Build · Vercel · Claude Code · Codex
+```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaniyalMlk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2f81f7&icon_color=2f81f7" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalMlk&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2f81f7&langs_count=8" alt="Top languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaniyalMlk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalMlk&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&text_color=c9d1d9&langs_count=6" alt="Top languages" height="160">
 </p>
 
-<p align="center"><sub>Most of my commits are in private repos (Terran Enterprise org, SolveSim) — the graph undercounts.</sub></p>
+<p align="center"><sub>Most of my code lives in private repos (Terran Enterprise, SolveSim), so the public graph undercounts.</sub></p>
+
+### Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniyal-mlk/)
+[![Email](https://img.shields.io/badge/dm6008%40nyu.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dm6008@nyu.edu)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=80&section=footer" width="100%" alt="footer">
