@@ -4,7 +4,8 @@
 
 <p align="center">
   Computer Science &amp; Economics at NYU — NYU Shanghai '28, in New York for 2026–27.<br>
-  Full-stack engineer: web and iOS on TypeScript and PostgreSQL, currently building at <a href="https://terrandenizen.com"><b>Terran Denizen</b></a>.
+  Full-stack engineer working across web and iOS, mostly TypeScript and PostgreSQL.<br>
+  From Astana, Kazakhstan, where I co-founded a robotics club.
 </p>
 
 <p align="center">
@@ -33,15 +34,5 @@
   <img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=DaniyalMlk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9&rank_icon=github&include_all_commits=true" alt="GitHub stats" height="165">
   <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=DaniyalMlk&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60a5fa&text_color=c9d1d9&langs_count=6" alt="Top languages" height="165">
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DaniyalMlk&theme=tokyonight&hide_border=true&background=00000000&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=c9d1d9&sideNums=c9d1d9&currStreakNum=ffffff&dates=8b949e" alt="Contribution streak" height="165">
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/3b82f6/DaniyalMlk" alt="Contribution graph" width="92%">
-</p>
-
-<p align="center"><sub>Most of my code lives in private repos (Terran Enterprise, SolveSim), so the public graph undercounts.</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e3a8a,100:020617&height=100&section=footer" width="100%" alt="footer">
