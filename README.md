@@ -3,9 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:3b82f6&height=190&section=header&text=Daniyal%20Malik&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20engineer%20%C2%B7%20Web%20%2B%20iOS%20%C2%B7%20CS%20%40%20NYU&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="banner">
 
 <p align="center">
-  I build web and iOS products on <b>TypeScript + PostgreSQL</b>.<br>
-  Full-stack engineering intern at <a href="https://terrandenizen.com"><b>Terran Denizen</b></a>, leading the Expo iOS app through TestFlight and App Store release.<br>
-  NYU Shanghai student, in New York for 2026–27.
+  CS student at NYU, home campus NYU Shanghai, in New York for 2026–27.<br>
+  I build full-stack web and iOS apps, currently at <a href="https://terrandenizen.com"><b>Terran Denizen</b></a>.<br>
+  Looking for a Summer 2027 SWE internship — always happy to connect.
 </p>
 
 <p align="center">
