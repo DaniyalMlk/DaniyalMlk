@@ -1,11 +1,14 @@
 <!-- Profile README · DaniyalMlk/DaniyalMlk -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:3b82f6&height=190&section=header&text=Daniyal%20Malik&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20engineer%20%C2%B7%20Web%20%2B%20iOS%20%C2%B7%20CS%20%40%20NYU&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:3b82f6&height=190&section=header&text=Daniyal%20Malik&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20engineer%20%C2%B7%20Web%20%2B%20iOS&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="banner">
 
 <p align="center">
-  Computer Science &amp; Economics at NYU — NYU Shanghai '28, in New York for 2026–27.<br>
-  Full-stack engineer working across web and iOS, mostly TypeScript and PostgreSQL.<br>
-  From Astana, Kazakhstan, where I co-founded a robotics club.
+  Computer Science &amp; Economics @ NYU, Class of 2028.<br>
+  Full-stack engineer — web and iOS, TypeScript and PostgreSQL.
+</p>
+
+<p align="center">
+  🇰🇿 Astana &nbsp;→&nbsp; 🇨🇳 Shanghai &nbsp;→&nbsp; 🇺🇸 New York
 </p>
 
 <p align="center">
