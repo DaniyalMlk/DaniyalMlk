@@ -1,14 +1,14 @@
 <!-- Profile README · DaniyalMlk/DaniyalMlk -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:3b82f6&height=190&section=header&text=Daniyal%20Malik&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20engineer%20%C2%B7%20Web%20%2B%20iOS&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e3a8a,100:3b82f6&height=200&section=header&text=Daniyal%20Malik&fontSize=60&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" alt="banner">
 
 <p align="center">
-  Computer Science &amp; Economics @ NYU, Class of 2028.<br>
-  Full-stack engineer — web and iOS, TypeScript and PostgreSQL.
+  <a href="https://github.com/DaniyalMlk"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2800&pause=1800&color=60A5FA&center=true&vCenter=true&repeat=true&width=560&height=50&lines=Astana+%E2%86%92+Shanghai+%E2%86%92+New+York" alt="Astana → Shanghai → New York"></a>
 </p>
 
 <p align="center">
-  🇰🇿 Astana &nbsp;→&nbsp; 🇨🇳 Shanghai &nbsp;→&nbsp; 🇺🇸 New York
+  Computer Science &amp; Economics @ NYU, Class of 2028<br>
+  Full-stack engineer — web and iOS, TypeScript and PostgreSQL
 </p>
 
 <p align="center">
