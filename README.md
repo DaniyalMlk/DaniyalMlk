@@ -21,10 +21,12 @@ Computer science and economics at New York University, class of 2028. Two years 
 
 Nine libraries, mostly finance: ledgers, pricing, risk, execution. Six form one system — **abacus** hands moneyness, tenor, shortfall, slippage and holdout to a language model as tools, so the numbers are computed by tested code rather than by the model. Each is published with its own output; the pinned repositories are the place to start, and the full runs are on [daniyalmlk.github.io](https://daniyalmlk.github.io#projects).
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ecosystem-dark.svg">
-  <img alt="abacus, an MCP server, sits over moneyness, shortfall, tenor, slippage and holdout" src="assets/ecosystem-light.svg" width="760">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ecosystem-dark.svg">
+    <img alt="abacus, an MCP server, sits over moneyness, shortfall, tenor, slippage and holdout" src="assets/ecosystem-light.svg" width="760">
+  </picture>
+</p>
 
 ## Stack
 
