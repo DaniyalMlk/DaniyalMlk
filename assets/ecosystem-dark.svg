@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 236" width="760" height="236" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <style>
+    .label{fill:#9a978c;font-size:12px}
+    .name{fill:#ecebe4;font-size:13px;font-weight:600}
+    .sub{fill:#9a978c;font-size:11px}
+    .box{fill:#171715;stroke:#2a2925;stroke-width:1}
+    .top{fill:#171715;stroke:#e2a23a;stroke-width:1.5}
+    .line{stroke:#ecebe4;stroke-width:1;opacity:.55}
+    .arrow{fill:#ecebe4;opacity:.55}
+  </style>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" class="arrow"/></marker>
+  </defs>
+  <text x="380" y="18" text-anchor="middle" class="label">a language model, over MCP</text>
+  <line x1="380" y1="26" x2="380" y2="54" class="line" marker-end="url(#a)"/>
+  <rect x="270" y="56" width="220" height="44" class="top"/>
+  <text x="380" y="75" text-anchor="middle" class="name">abacus</text>
+  <text x="380" y="91" text-anchor="middle" class="sub">39 tools · 19/19 conformance</text>
+  <line x1="380" y1="100" x2="380" y2="116" class="line"/>
+  <line x1="64" y1="116" x2="696" y2="116" class="line"/>
+  <g>
+    <line x1="64" y1="150" x2="64" y2="116" class="line" marker-end="url(#a)"/>
+    <rect x="0" y="150" width="128" height="44" class="box"/>
+    <text x="64" y="169" text-anchor="middle" class="name">moneyness</text>
+    <text x="64" y="185" text-anchor="middle" class="sub">options</text>
+  </g>
+  <g>
+    <line x1="222" y1="150" x2="222" y2="116" class="line" marker-end="url(#a)"/>
+    <rect x="158" y="150" width="128" height="44" class="box"/>
+    <text x="222" y="169" text-anchor="middle" class="name">shortfall</text>
+    <text x="222" y="185" text-anchor="middle" class="sub">risk</text>
+  </g>
+  <g>
+    <line x1="380" y1="150" x2="380" y2="116" class="line" marker-end="url(#a)"/>
+    <rect x="316" y="150" width="128" height="44" class="box"/>
+    <text x="380" y="169" text-anchor="middle" class="name">tenor</text>
+    <text x="380" y="185" text-anchor="middle" class="sub">curves</text>
+  </g>
+  <g>
+    <line x1="538" y1="150" x2="538" y2="116" class="line" marker-end="url(#a)"/>
+    <rect x="474" y="150" width="128" height="44" class="box"/>
+    <text x="538" y="169" text-anchor="middle" class="name">slippage</text>
+    <text x="538" y="185" text-anchor="middle" class="sub">execution</text>
+  </g>
+  <g>
+    <line x1="696" y1="150" x2="696" y2="116" class="line" marker-end="url(#a)"/>
+    <rect x="632" y="150" width="128" height="44" class="box"/>
+    <text x="696" y="169" text-anchor="middle" class="name">holdout</text>
+    <text x="696" y="185" text-anchor="middle" class="sub">backtests</text>
+  </g>
+  <text x="380" y="226" text-anchor="middle" class="label">pure Python, no runtime dependencies</text>
+</svg>
