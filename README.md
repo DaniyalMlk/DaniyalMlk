@@ -3,7 +3,7 @@
   <img alt="Daniyal Malik. Full-stack engineer. Ledgers, billing, pricing, authorization: the parts of a product where a wrong number is a bug." src="assets/header-light.svg" width="880">
 </picture>
 
-Computer science and economics at New York University, class of 2028. Two years at NYU Shanghai, now at the New York campus. Over the past year: founding engineer, engineering lead and co-founder on three early-stage products in New York, Shanghai and France, mostly building the parts that handle money and permissions — billing, bookings, role systems — on Next.js and PostgreSQL. Nine open-source finance libraries on the side.
+Computer science and economics at New York University, class of 2028. Two years at NYU Shanghai, now at the New York campus. Over the past year: founding engineer, engineering lead and co-founder on three early-stage products in New York, Shanghai and France, mostly building the parts that handle money and permissions — billing, bookings, role systems — on Next.js and PostgreSQL.
 
 <a href="mailto:dm6008@nyu.edu">dm6008@nyu.edu</a> · <a href="https://daniyalmlk.github.io">daniyalmlk.github.io</a> · <a href="https://linkedin.com/in/daniyal-mlk">LinkedIn</a>
 
